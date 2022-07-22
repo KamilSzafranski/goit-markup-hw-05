@@ -417,7 +417,7 @@ body {
     overflow: hidden;
 }
 .overlay {
-    padding: 49px 0;
+    padding: 49px 0 0 25px;
     position: absolute;
     top: 0;
     width: 100%;
@@ -432,8 +432,7 @@ body {
 }
 
 .overlay p {
-    margin-right: 45px;
-    padding-left: 25px;
+    width: 301px;
 }
 
 .portfolio figcaption {
