@@ -492,5 +492,5 @@ body {
 }
 .modal-button:hover {
     transform: scale(1.5) translate(-5px, 5px);
-    background-color: teal;
+    background-color: yellowgreen;
 }
